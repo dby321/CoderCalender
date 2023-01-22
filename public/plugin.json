@@ -1,0 +1,13 @@
+{
+  "main": "index.html",
+  "logo": "logo.png",
+  "preload": "preload.js",
+  "development": "http://127.0.0.1:3000",
+  "features": [
+    {
+      "code": "main",
+      "explain": "一个好玩又实用的程序员日历",
+      "cmds":["Calender", "CoderCalender","程序员日历","日历"]
+    }
+  ]
+}
